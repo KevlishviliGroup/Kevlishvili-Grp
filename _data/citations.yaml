@@ -409,8 +409,11 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1021/jacs.0c04286
-  title: Highly Enantioselective Synthesis of Indazoles with a C3-Quaternary Chiral
-    Center Using CuH Catalysis
+  title: 'Highly
+
+    Enantioselective Synthesis of Indazoles with
+
+    a C3-Quaternary Chiral Center Using CuH Catalysis'
   authors:
   - Yuxuan Ye
   - Ilia Kevlishvili
@@ -494,8 +497,9 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1021/jacs.7b08707
-  title: 'Glycosyl Cross-Coupling of Anomeric Nucleophiles: Scope, Mechanism, and
-    Applications in the Synthesis of Aryl <i>C</i>-Glycosides'
+  title: "Glycosyl Cross-Coupling of Anomeric Nucleophiles: Scope, Mechanism, and\
+    \ Applications in the Synthesis of Aryl\n                    <i>C</i>\n      \
+    \              -Glycosides"
   authors:
   - Feng Zhu
   - Jacob Rodriguez
